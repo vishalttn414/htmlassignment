@@ -1,0 +1,25 @@
+Question6-What are IDs and classes in HTML, and how do they differ?
+
+Answer6-IDs and classes are HTML attributes used to identify and style elements, but they have 
+important differences in their usage and rules:
+
+ID:
+<div id="header">Header content</div>
+<div id="main-content">Main content</div>
+
+Must be unique in a page (can't reuse the same ID)
+Selected in CSS with # symbol: #header { }
+More specific in CSS specificity hierarchy
+JavaScript can find element by getElementById()
+
+Classes:
+
+<div class="card">First card</div>
+<div class="card">Second card</div>
+<div class="card important">Special card</div>
+
+Can be reused on multiple elements
+Selected in CSS with . symbol: .card { }
+Less specific than IDs in CSS specificity
+Multiple classes can be added to one element
+JavaScript can find elements by getElementsByClassName().

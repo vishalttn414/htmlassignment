@@ -1,0 +1,28 @@
+Question5 -Why do we use meta tag?
+
+Answer5- Key purposes of meta tags:
+
+1.Technical Setup
+
+Define character encoding
+Set viewport settings for mobile responsiveness
+Specify browser compatibility modes
+
+2.Search Engine Optimization (SEO)
+
+Provide page descriptions for search results
+Define keywords (though less important now)
+Specify the author
+Control how pages should be indexed
+
+3.Social Media Integration
+
+Define how content appears when shared on social platforms
+Set preview images, titles, and descriptions
+Control social media crawlers
+
+4.Browser Behavior
+
+Set page refresh intervals
+Control caching
+Manage redirects
